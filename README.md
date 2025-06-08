@@ -16,3 +16,9 @@ fraud_detection
 - fraud_detection_pipeline.pkl # Trained ML model
 - requirements.txt # List of dependencies
 - README.md # Project documentation
+
+Author
+Shravani Bhavsar
+🔗 GitHub
+🔗 LinkedIn
+
